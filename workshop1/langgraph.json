@@ -1,0 +1,11 @@
+{
+    "dockerfile_lines": [],
+    "graphs": {
+      "Invoice Subagent": "./agents/invoice_agent.py:graph",
+      "Email Agent": "./agents/email_agent.py:graph"
+    },
+    "env": ".env",
+    "dependencies": [
+      "."
+    ]
+  }

@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "tamasfe.even-better-toml",
+        "aaron-bond.better-comments",
+        "bierner.markdown-mermaid",
+        "Continue.continue",
+        "PKief.material-icon-theme",
+        "mhutchie.git-graph",
+        "ms-azuretools.vscode-docker",
+        "george3447.docker-run"
+    ]
+}
