@@ -17,5 +17,10 @@ This repository includes the code explained during PyDayBCN2025
    -  Entender y programar un sistema de ranking con TF‑IDF / BM25.
    -  Utilizar vectores y similitud de coseno para búsqueda semántica básica.
    -  Comparar enfoques y saber cuándo usar palabras clave, BM25 o vectores.
-   
+
 **Github:** https://github.com/polyrand/pyday2025-text
+
+## Workshop4:
+**Title:** Agentes Inteligentes que Evolucionan: Software Automodificable con LLMs y Python by Camilo Chacón Sartori
+**Content:** En este workshop exploraremos cómo construir software automodificable utilizando agentes basados en LLMs, con implementaciones prácticas en Python. Partiremos de los fundamentos de agentes autónomos y LLMs, para mostrar cómo estos sistemas pueden autoevaluarse, reescribirse y adaptarse a nuevas tareas de manera autónoma. La sesión tendrá un énfasis práctico, aprovechando mi experiencia en la integración de la computación evolutiva y LLMs, para que los participantes adquieran herramientas concretas para experimentar con software autoevolutivo.
+**Github:** https://github.com/camilochs/pydaybcn2025-workshop-code-evolution
