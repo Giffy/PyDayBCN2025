@@ -20,7 +20,7 @@
     },
 
     // Explorer settings
-    "explorer.excludeGitIgnore": true,
+    "explorer.excludeGitIgnore": false,
     "explorer.confirmDelete": true,
     "explorer.compactFolders": true,
     
